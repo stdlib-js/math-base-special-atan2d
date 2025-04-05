@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-02)
+## Unreleased (2025-04-05)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d8437b8`](https://github.com/stdlib-js/stdlib/commit/d8437b85b0a0e4a1a27098ea88ccf1332a126408) - **test:** add tests for IEEE 754-2019 compliance [(#6563)](https://github.com/stdlib-js/stdlib/pull/6563) _(by Karan Anand)_
 -   [`f9cd43c`](https://github.com/stdlib-js/stdlib/commit/f9cd43c1179fb822caa68afbfc6af56d2e128e9e) - **feat:** add `math/base/special/atan2d` [(#6273)](https://github.com/stdlib-js/stdlib/pull/6273) _(by Karan Anand, Athan Reines, stdlib-bot)_
 
 </details>
