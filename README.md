@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import atan2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2d@esm/index.mjs';
+import atan2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2d@v0.1.0-esm/index.mjs';
 ```
 
 #### atan2d( y, x )
@@ -90,7 +90,7 @@ v = atan2d( 3.0, NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import atan2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2d@esm/index.mjs';
+import atan2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2d@v0.1.0-esm/index.mjs';
 
 var x = uniform( 100, 0.0, 100.0 );
 var y = uniform( 100, 0.0, 100.0 );
